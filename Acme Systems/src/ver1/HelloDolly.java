@@ -7,5 +7,9 @@ public class HelloDolly {
 		System.out.println("Hello Dolly from Eclipse Again");
 
 	}
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
 
 }
